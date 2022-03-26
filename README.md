@@ -1,3 +1,2 @@
-Born too late to explore the world.
-Born too early to explore the universe.
-Born just in time to print("Hello World").
+to be alive is to be in motion,
+but not actually going anywhere
